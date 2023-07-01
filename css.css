@@ -1,0 +1,259 @@
+body{
+
+}
+.logo{
+    text-align: center;
+}
+.nav_item{
+    margin: 20px 20px 0px 10px;
+    text-decoration: none;
+    color: black;
+    
+    
+}
+.topslide{
+    background-image: url("slide.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+    height: auto;
+    display: block;
+    position: relative;
+
+    
+}
+
+.lorem{
+    text-align: left;
+    font-weight: 500px;
+    font-size: 40px;
+    font-family:sans-serif;
+    display: block;
+    position: relative;
+    /* border: 1px solid black; */
+}
+.lorem_matter{
+    text-align: left;
+    color: #000000;
+    font-size: 18px;
+    font-family:sans-serif;
+    /* border: 1px solid black; */
+
+}
+
+.Check_pricing{
+    padding: 10px 40px 10px 40px;
+    border-radius: 33px 33px;
+    background-color: blue;
+    color: white;
+    font-size: 23px;
+    border: none;
+    color: #FFFFFF;
+    border: 1px solid black;
+   
+}
+
+
+.middle_heading_item{
+    font-size: 35px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 550;
+    
+}
+.card-title{
+    text-align: center;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: bold; 
+
+}
+.card-text{
+    font-size: 18px;
+    font-family: sans-serif;
+    top: 1020px;
+    background: transparent url('img/Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est.Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittisnunc. In hac habita.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+.card{
+    width: 308px;
+    height: 320px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 19px;
+}
+
+
+.third_part{
+    margin: 200px 0px 0px 0px;
+    display: block;
+}
+.third_part_heading{
+    font-size: 35px;
+    text-align: center;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 550;
+    padding-bottom: 100px;
+
+}
+.row{
+    box-sizing: border-box;
+    /* display: block; */
+    /* position: relative; */
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; 
+    
+
+}
+  
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+ 
+  .item_heading1{
+    font-weight: 650;
+    font-size: 18px;
+  }
+  .item_matter{
+    font-weight: 500;
+    justify-content: space-around;
+    font-size: 18px;
+  }
+  .fourth{
+    display: block;
+    position: relative;
+    margin: 100px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .fourth_heading{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    margin: 200px 0px 0px 0px;
+  }
+  .item1 {
+    align-self: flex-start;
+  }
+  .item2{
+    align-self: flex-end;
+  }
+  .item3{
+    align-self: flex-start;
+  }
+  .item4{
+    align-self: flex-end;
+  }
+  .fourth_item{
+    margin: 50px 0px 0px 0px;
+   
+  }
+  .fourth_item1_img1{
+    display: inline-block;
+  }
+  .fourth_item1_heading1{
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .fourth_item1_matter1{
+    font-size: 21px;
+  }
+
+  .fifth_card{
+    width: 1097px;
+    height: 300px;
+    background: #F8FAFC 0% 0% no-repeat padding-box;
+    box-shadow: 0px 16px 48px #00000029;
+    border-radius: 42px;
+    opacity: 1;
+    margin: auto;
+  }
+  .star{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    margin: 0px 0px 0px 50px;
+  }
+  .fifth_card_heading{
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 600;
+    margin: 50px 0px 0px 0px;
+  }
+  .fifth_card_item{
+    width: 285px;
+    height: 200px; 
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 16px 48px #00000029;
+    border-radius: 30px;
+  }
+
+.fifth_card_item{
+    margin: 50px 0px 0px 40px;
+}
+.fifth_card-body{
+    padding: 30px 0px 0px 20px ;
+    height: 200px;
+    
+}
+.fifth_card-text{
+    font-size: 13px;
+}
+.fifth_card-title2{
+    font-size: 13px;
+}
+.fifth_card-title{
+    font-size: 12px;
+}
+.fimg{
+    float: left;
+}
+.sixth{
+    margin: 250px 0px 0px 0px;
+}
+
+.six_heading{
+  text-align: center;
+  font-size: 35px;
+  font-weight: 600;
+}
+.sixth_img_item{
+  /* height: 100p;
+  width: 100px; */
+  margin: auto;
+}
+.sixth_img{
+  margin: 8% 0% 0% 0%;
+}
+
+.si1{
+  margin: 0% 10% 0% 10%;
+}
+.si2{
+  margin: 0% 10% 0% 10%;
+}
+.si3{
+  
+  margin: 0% 10% 0% 10%;
+}
+
+.footer_item{
+  border: 1px solid black;
+  padding: 15% 0% 2% 0%;
+  background-color: #000000;
+  color: white;
+  font-size: 20px;
+  font-style: normal;
+}
